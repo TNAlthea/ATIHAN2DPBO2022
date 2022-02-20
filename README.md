@@ -10,8 +10,9 @@ NIM : 2005021
 # Penjelasan Program
 ![Untitled-1](https://user-images.githubusercontent.com/99664611/154848295-eddaf9e2-2afd-4847-bf29-19d27e742fe2.png)
 
-# Hasil Menjalankan Program CPP:
+# Hasil Menjalankan Program CPP [a link] https://github.com/TNAlthea/LATIHAN2DPBO2022/tree/main/CPP:
 ![tesCPP](https://user-images.githubusercontent.com/99664611/154848315-eaffc3b4-2835-4aee-82d3-017845848b0c.png)
 
-# Hasil Menjalankan Program JAVA:
+
+# Hasil Menjalankan Program JAVA [a link] https://github.com/TNAlthea/LATIHAN2DPBO2022/tree/main/JAVA:
 ![tesJAVA](https://user-images.githubusercontent.com/99664611/154848324-db2e0784-dcff-4e41-8e3b-4d0ab4c99626.png)
