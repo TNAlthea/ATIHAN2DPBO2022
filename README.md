@@ -12,7 +12,7 @@ NIM : 2005021
 
 Pada desain kelas, Produk menjadi orang tua dari kelas hardware. Hardware menjadi orang tua dari kelas memori yang secara otomatis menjadi perantara antara kelas Produk dan kelas Memori. 
 
-## Mengapa demikian?
+### Mengapa demikian?
 [Breakdown semua atribut masing-masing kelas]
 **Produk**: price, idProduct
 **Hardware**: brand, model
