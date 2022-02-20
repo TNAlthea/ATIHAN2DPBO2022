@@ -36,4 +36,7 @@ User dapat menginput data dengan jumlah yang diinginkan, juga disediakan data te
 ## ![tesPY](https://user-images.githubusercontent.com/99664611/154850629-3ede3e12-518e-437d-b26d-15a890df72a5.png)
 *https://github.com/TNAlthea/LATIHAN1DPBO2022/tree/main/LATIHAN%20B/PY*
 
+# Hasil Menjalankan Program PYTHON:
+##![tesPHP](https://user-images.githubusercontent.com/99664611/154853776-f31361f6-649e-4c4a-984a-fcb5bab3070d.png)
+*https://github.com/TNAlthea/LATIHAN2DPBO2022/tree/main/PHP*
 
