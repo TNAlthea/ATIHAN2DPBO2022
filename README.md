@@ -18,7 +18,7 @@ Pada desain kelas, Produk menjadi orang tua dari kelas hardware. Hardware menjad
 - **Hardware**: brand [string], model [string]
 - **Memory**: Frequency [int], sizeMemory [string], supportCuda [boolean]
 
-Produk dipilih menjadi orang tua dari hardware dan memory karena memiliki *primary key* dari produk itu sendiri, yaitu *idProduct*. lalu disusul oleh hardware karena memiliki atribut yang lebih mudah diingat dan mencolok (dilihat dari sisi customer). Lalu, memory atribut cucu karena merupakan data detail dari produk itu sendiri.
+Produk dipilih menjadi orang tua dari hardware dan memory karena memiliki *primary key* dari produk itu sendiri, yaitu *idProduct*. lalu disusul oleh hardware karena memiliki atribut yang lebih mudah diingat dan mencolok (dilihat dari sisi customer). Lalu, memory menjadi kelas anak dari kelas hardware karena merupakan data detail dari hardware itu sendiri.
 
 Pada semua program baik **CPP**, **JAVA**, **Python**, dan **PHP** memiliki metode get-set untuk mengakses atribut pada masing-masing kelas, metode get-set juga dapat digunakan apabila sebuah kelas memiliki orang tua yang memiliki atribut sehingga kelas anak juga bisa mengakses atribut tersebut.
 
