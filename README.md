@@ -31,3 +31,9 @@ User dapat menginput data dengan jumlah yang diinginkan, juga disediakan data te
 # Hasil Menjalankan Program JAVA:
 ## ![tesJAVA](https://user-images.githubusercontent.com/99664611/154848324-db2e0784-dcff-4e41-8e3b-4d0ab4c99626.png)
 *https://github.com/TNAlthea/LATIHAN2DPBO2022/tree/main/JAVA*
+
+# Hasil Menjalankan Program PYTHON:
+## ![tesPY](https://user-images.githubusercontent.com/99664611/154850629-3ede3e12-518e-437d-b26d-15a890df72a5.png)
+*https://github.com/TNAlthea/LATIHAN1DPBO2022/tree/main/LATIHAN%20B/PY*
+
+
