@@ -14,9 +14,9 @@ Pada desain kelas, Produk menjadi orang tua dari kelas hardware. Hardware menjad
 
 ### Mengapa demikian?
 [Breakdown semua atribut masing-masing kelas]
-- **Produk**: price, idProduct
-- **Hardware**: brand, model
-- **Memory**: Frequency, sizeMemory, supportCuda
+- **Produk**: price [int], idProduct [string]
+- **Hardware**: brand [string], model [string]
+- **Memory**: Frequency [int], sizeMemory [string], supportCuda [boolean]
 
 Produk dipilih menjadi orang tua dari hardware dan memory karena memiliki *primary key* dari produk itu sendiri, yaitu *idProduct*. lalu disusul oleh hardware karena memiliki atribut yang lebih mudah diingat dan mencolok (dilihat dari sisi customer). Lalu, memory atribut cucu karena merupakan data detail dari produk itu sendiri.
 
