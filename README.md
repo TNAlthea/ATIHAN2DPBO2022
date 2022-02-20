@@ -26,17 +26,21 @@ User dapat menginput data dengan jumlah yang diinginkan, juga disediakan data te
 
 # Hasil Menjalankan Program CPP:
 ## ![tesCPP](https://user-images.githubusercontent.com/99664611/154848315-eaffc3b4-2835-4aee-82d3-017845848b0c.png)
+
 *https://github.com/TNAlthea/LATIHAN2DPBO2022/tree/main/CPP*
 
 # Hasil Menjalankan Program JAVA:
 ## ![tesJAVA](https://user-images.githubusercontent.com/99664611/154848324-db2e0784-dcff-4e41-8e3b-4d0ab4c99626.png)
+
 *https://github.com/TNAlthea/LATIHAN2DPBO2022/tree/main/JAVA*
 
 # Hasil Menjalankan Program PYTHON:
 ## ![tesPY](https://user-images.githubusercontent.com/99664611/154850629-3ede3e12-518e-437d-b26d-15a890df72a5.png)
+
 *https://github.com/TNAlthea/LATIHAN1DPBO2022/tree/main/LATIHAN%20B/PY*
 
 # Hasil Menjalankan Program PYTHON:
 ##![tesPHP](https://user-images.githubusercontent.com/99664611/154853776-f31361f6-649e-4c4a-984a-fcb5bab3070d.png)
+
 *https://github.com/TNAlthea/LATIHAN2DPBO2022/tree/main/PHP*
 
